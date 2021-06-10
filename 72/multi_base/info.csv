@@ -1,0 +1,58 @@
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_precision,rank_test_precision,mean_train_precision,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1404,2,0.9976,0.6457,3,0.9995,-0.3023,1,-0.0004,0.6558,1,0.9992,binary_relevance
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1427,1,0.208,0.6475,2,0.7074,-0.3039,3,-0.2526,0.6505,3,0.7078,binary_relevance
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.0943,5,0.2533,0.603,5,0.7328,-0.3377,5,-0.2276,0.6128,5,0.7433,binary_relevance
+3,LinearSVC(),{'classifier': LinearSVC()},0.1135,4,0.244,0.6389,4,0.7408,-0.3128,4,-0.2247,0.6399,4,0.7382,binary_relevance
+4,SVC(),{'classifier': SVC()},0.1329,3,0.4522,0.648,1,0.839,-0.3031,2,-0.1391,0.6522,2,0.8388,binary_relevance
+5,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.0625,6,0.9976,0.5519,6,0.9995,-0.386,6,-0.0004,0.5548,6,1.0,binary_relevance
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_precision,rank_test_precision,mean_train_precision,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1404,2,0.9976,0.6457,3,0.9995,-0.3023,1,-0.0004,0.6558,1,0.9992,binary_relevance
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1427,1,0.208,0.6475,2,0.7074,-0.3039,3,-0.2526,0.6505,3,0.7078,binary_relevance
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.0943,5,0.2533,0.603,5,0.7328,-0.3377,5,-0.2276,0.6128,5,0.7433,binary_relevance
+3,LinearSVC(),{'classifier': LinearSVC()},0.1135,4,0.244,0.6389,4,0.7408,-0.3128,4,-0.2247,0.6399,4,0.7382,binary_relevance
+4,SVC(),{'classifier': SVC()},0.1329,3,0.4522,0.648,1,0.839,-0.3031,2,-0.1391,0.6522,2,0.8388,binary_relevance
+5,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.0625,6,0.9976,0.5519,6,0.9995,-0.386,6,-0.0004,0.5548,6,1.0,binary_relevance
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_precision,rank_test_precision,mean_train_precision,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1304,2,0.9973,0.6478,2,0.9995,-0.3113,1,-0.0004,0.6352,1,0.9992,classifier_chains
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1186,4,0.2214,0.6445,3,0.7101,-0.3225,3,-0.2623,0.6162,4,0.6794,classifier_chains
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1113,5,0.2405,0.5997,5,0.7256,-0.3406,5,-0.2344,0.6105,5,0.7337,classifier_chains
+3,LinearSVC(),{'classifier': LinearSVC()},0.1304,2,0.2684,0.6302,4,0.7354,-0.3265,4,-0.2342,0.6187,3,0.7182,classifier_chains
+4,SVC(),{'classifier': SVC()},0.1449,1,0.5148,0.6496,1,0.8501,-0.3131,2,-0.1324,0.6301,2,0.8319,classifier_chains
+5,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.1015,6,0.9976,0.5736,6,0.9995,-0.3661,6,-0.0004,0.5794,6,1.0,classifier_chains
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_precision,rank_test_precision,mean_train_precision,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1304,2,0.9973,0.6478,2,0.9995,-0.3113,1,-0.0004,0.6352,1,0.9992,classifier_chains
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1186,4,0.2214,0.6445,3,0.7101,-0.3225,3,-0.2623,0.6162,4,0.6794,classifier_chains
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1113,5,0.2405,0.5997,5,0.7256,-0.3406,5,-0.2344,0.6105,5,0.7337,classifier_chains
+3,LinearSVC(),{'classifier': LinearSVC()},0.1304,2,0.2684,0.6302,4,0.7354,-0.3265,4,-0.2342,0.6187,3,0.7182,classifier_chains
+4,SVC(),{'classifier': SVC()},0.1449,1,0.5148,0.6496,1,0.8501,-0.3131,2,-0.1324,0.6301,2,0.8319,classifier_chains
+5,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.1015,6,0.9976,0.5736,6,0.9995,-0.3661,6,-0.0004,0.5794,6,1.0,classifier_chains
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_precision,rank_test_precision,mean_train_precision,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1495,1,0.9976,0.6275,3,0.9995,-0.3366,3,-0.0004,0.603,2,0.9993,label_powerset
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1376,2,0.3553,0.6277,2,0.7162,-0.3305,2,-0.2469,0.6123,1,0.7115,label_powerset
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1258,4,0.3433,0.6114,4,0.7161,-0.3488,4,-0.2573,0.59,4,0.6841,label_powerset
+3,LinearSVC(),{'classifier': LinearSVC()},0.1112,5,0.606,0.5714,6,0.8188,-0.3608,5,-0.1542,0.589,5,0.8311,label_powerset
+4,SVC(),{'classifier': SVC()},0.1376,2,0.5427,0.6514,1,0.815,-0.3289,1,-0.1688,0.6025,3,0.774,label_powerset
+5,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.0915,6,0.9976,0.575,5,0.9995,-0.3645,6,-0.0004,0.5804,6,0.9991,label_powerset
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_precision,rank_test_precision,mean_train_precision,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1495,1,0.9976,0.6275,3,0.9995,-0.3366,3,-0.0004,0.603,2,0.9993,label_powerset
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1376,2,0.3553,0.6277,2,0.7162,-0.3305,2,-0.2469,0.6123,1,0.7115,label_powerset
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1258,4,0.3433,0.6114,4,0.7161,-0.3488,4,-0.2573,0.59,4,0.6841,label_powerset
+3,LinearSVC(),{'classifier': LinearSVC()},0.1112,5,0.606,0.5714,6,0.8188,-0.3608,5,-0.1542,0.589,5,0.8311,label_powerset
+4,SVC(),{'classifier': SVC()},0.1376,2,0.5427,0.6514,1,0.815,-0.3289,1,-0.1688,0.6025,3,0.774,label_powerset
+5,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.0915,6,0.9976,0.575,5,0.9995,-0.3645,6,-0.0004,0.5804,6,0.9991,label_powerset
+
+,accuracy,f1_micro,hamming_loss,precision,model
+0,0.1773,0.6685,-0.2837,0.663,binary_relevance
+0,0.1844,0.6509,-0.3132,0.6175,classifier_chain
+0,0.2695,0.6913,-0.2967,0.6189,label_powerset
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_precision,rank_test_precision,mean_train_precision,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1404,2,0.9976,0.6457,3,0.9995,-0.3023,1,-0.0004,0.6558,1,0.9992,binary_relevance
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1304,2,0.9973,0.6478,2,0.9995,-0.3113,1,-0.0004,0.6352,1,0.9992,classifier_chain
+4,SVC(),{'classifier': SVC()},0.1376,2,0.5427,0.6514,1,0.815,-0.3289,1,-0.1688,0.6025,3,0.774,label_powerset
+
