@@ -15,7 +15,7 @@ if args.__contains__("-help"):
     print("\"-smote\"\n-\"borderlineSmote\"\n\"-svmSmote\"\n\"-KMeansSmote\"\n\"-SmoteTomek\"\n\"-adasyn\"")
     print()
     print("You can select which of the data-set case you use based on (as an additional optional param) :")
-    print("\"-full\" (DEFAULT), which means that the full data-set is to be use.")
+    print("\"-full\" (DEFAULT), which means that the full data-set is to be used.")
     print("\"-imba\", which means that an artificially imbalanced data-set is used.")
     print("\"-imbaVP\", which means that an artificially imbalanced + set xray 'View Position' data-set is used.")
     exit()

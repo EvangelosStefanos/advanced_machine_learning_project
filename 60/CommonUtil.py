@@ -86,7 +86,6 @@ def imbalance_resolution(im, X_train, Y_train):
 
 def runCNN_And_Plot(x_train_data, x_test_data, y_train_data, y_test_data):
     # In -> [[Conv2D->relu]*2 -> MaxPool2D -> Dropout]*2 -> Flatten -> Dense -> Dropout -> Out
-    batch_size = 128
     input_shape = (128, 128, 3)
     model = Sequential()
     model.add(Conv2D(filters = 32, kernel_size = (3,3),padding = 'Same',
