@@ -1,0 +1,46 @@
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_roc_auc,rank_test_roc_auc,mean_train_roc_auc,mean_test_average_precision,rank_test_average_precision,mean_train_average_precision,mean_test_label_ranking_average_precision_score,rank_test_label_ranking_average_precision_score,mean_train_label_ranking_average_precision_score,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1203,2,0.9976,0.6533,1,0.9995,0.7804,2,1.0,0.704,1,1.0,0.7954,1,1.0,binary_relevance
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1324,1,0.2169,0.6507,2,0.7115,0.7805,1,0.8365,0.7008,2,0.7773,0.7939,2,0.8419,binary_relevance
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.0939,3,0.258,0.6085,3,0.7385,0.7315,3,0.8672,0.6208,3,0.7938,0.7231,3,0.8285,binary_relevance
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.0674,4,0.9976,0.5656,4,0.9995,0.621,4,1.0,0.5096,4,1.0,0.5768,4,1.0,binary_relevance
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_roc_auc,rank_test_roc_auc,mean_train_roc_auc,mean_test_average_precision,rank_test_average_precision,mean_train_average_precision,mean_test_label_ranking_average_precision_score,rank_test_label_ranking_average_precision_score,mean_train_label_ranking_average_precision_score,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1203,2,0.9976,0.6533,1,0.9995,0.7804,2,1.0,0.704,1,1.0,0.7954,1,1.0,binary_relevance
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1324,1,0.2169,0.6507,2,0.7115,0.7805,1,0.8365,0.7008,2,0.7773,0.7939,2,0.8419,binary_relevance
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.0939,3,0.258,0.6085,3,0.7385,0.7315,3,0.8672,0.6208,3,0.7938,0.7231,3,0.8285,binary_relevance
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.0674,4,0.9976,0.5656,4,0.9995,0.621,4,1.0,0.5096,4,1.0,0.5768,4,1.0,binary_relevance
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_roc_auc,rank_test_roc_auc,mean_train_roc_auc,mean_test_average_precision,rank_test_average_precision,mean_train_average_precision,mean_test_label_ranking_average_precision_score,rank_test_label_ranking_average_precision_score,mean_train_label_ranking_average_precision_score,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1657,1,0.9976,0.662,1,0.9995,0.776,1,1.0,0.6962,1,1.0,0.7933,1,1.0,classifier_chains
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1226,2,0.2276,0.6458,2,0.7144,0.767,2,0.8239,0.6907,2,0.7616,0.793,2,0.8373,classifier_chains
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1084,3,0.2457,0.6078,3,0.7288,0.7235,3,0.8659,0.616,3,0.7941,0.7172,3,0.8326,classifier_chains
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.1034,4,0.9976,0.5751,4,0.9995,0.6297,4,1.0,0.5179,4,1.0,0.6044,4,1.0,classifier_chains
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_roc_auc,rank_test_roc_auc,mean_train_roc_auc,mean_test_average_precision,rank_test_average_precision,mean_train_average_precision,mean_test_label_ranking_average_precision_score,rank_test_label_ranking_average_precision_score,mean_train_label_ranking_average_precision_score,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1657,1,0.9976,0.662,1,0.9995,0.776,1,1.0,0.6962,1,1.0,0.7933,1,1.0,classifier_chains
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1226,2,0.2276,0.6458,2,0.7144,0.767,2,0.8239,0.6907,2,0.7616,0.793,2,0.8373,classifier_chains
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1084,3,0.2457,0.6078,3,0.7288,0.7235,3,0.8659,0.616,3,0.7941,0.7172,3,0.8326,classifier_chains
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.1034,4,0.9976,0.5751,4,0.9995,0.6297,4,1.0,0.5179,4,1.0,0.6044,4,1.0,classifier_chains
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_roc_auc,rank_test_roc_auc,mean_train_roc_auc,mean_test_average_precision,rank_test_average_precision,mean_train_average_precision,mean_test_label_ranking_average_precision_score,rank_test_label_ranking_average_precision_score,mean_train_label_ranking_average_precision_score,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1564,1,0.9976,0.6449,1,0.9995,0.7857,1,1.0,0.7086,1,1.0,0.7982,2,1.0,label_powerset
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1492,2,0.3555,0.6368,2,0.7178,0.779,2,0.8564,0.7024,2,0.8094,0.799,1,0.855,label_powerset
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1347,3,0.355,0.6198,3,0.7237,0.7319,3,0.8672,0.6218,3,0.7947,0.7231,3,0.8285,label_powerset
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.1055,4,0.9976,0.5701,4,0.9995,0.6294,4,1.0,0.5182,4,1.0,0.6003,4,1.0,label_powerset
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_roc_auc,rank_test_roc_auc,mean_train_roc_auc,mean_test_average_precision,rank_test_average_precision,mean_train_average_precision,mean_test_label_ranking_average_precision_score,rank_test_label_ranking_average_precision_score,mean_train_label_ranking_average_precision_score,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1564,1,0.9976,0.6449,1,0.9995,0.7857,1,1.0,0.7086,1,1.0,0.7982,2,1.0,label_powerset
+1,MultinomialNB(),{'classifier': MultinomialNB()},0.1492,2,0.3555,0.6368,2,0.7178,0.779,2,0.8564,0.7024,2,0.8094,0.799,1,0.855,label_powerset
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},0.1347,3,0.355,0.6198,3,0.7237,0.7319,3,0.8672,0.6218,3,0.7947,0.7231,3,0.8285,label_powerset
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},0.1055,4,0.9976,0.5701,4,0.9995,0.6294,4,1.0,0.5182,4,1.0,0.6003,4,1.0,label_powerset
+
+,accuracy,f1_micro,roc_auc,average_precision,label_ranking_average_precision_score,model
+0,0.1799,0.6592,0.7799,0.6784,0.778,binary_relevance
+0,0.2014,0.6711,0.773,0.6773,0.7824,classifier_chain
+0,0.1727,0.6596,0.7835,0.6744,0.7863,label_powerset
+
+,param_classifier,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_roc_auc,rank_test_roc_auc,mean_train_roc_auc,mean_test_average_precision,rank_test_average_precision,mean_train_average_precision,mean_test_label_ranking_average_precision_score,rank_test_label_ranking_average_precision_score,mean_train_label_ranking_average_precision_score,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1203,2,0.9976,0.6533,1,0.9995,0.7804,2,1.0,0.704,1,1.0,0.7954,1,1.0,binary_relevance
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1657,1,0.9976,0.662,1,0.9995,0.776,1,1.0,0.6962,1,1.0,0.7933,1,1.0,classifier_chain
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},0.1564,1,0.9976,0.6449,1,0.9995,0.7857,1,1.0,0.7086,1,1.0,0.7982,2,1.0,label_powerset
+

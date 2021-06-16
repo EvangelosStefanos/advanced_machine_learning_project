@@ -1,0 +1,46 @@
+,param_classifier,params,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_label_ranking_loss,rank_test_label_ranking_loss,mean_train_label_ranking_loss,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.2989,1,-0.0004,-0.2112,1,0.0,binary_relevance
+1,MultinomialNB(),{'classifier': MultinomialNB()},-0.3013,2,-0.2478,-0.2124,2,-0.1622,binary_relevance
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},-0.3305,3,-0.2225,-0.317,3,-0.1815,binary_relevance
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},-0.3654,4,-0.0004,-0.5722,4,0.0,binary_relevance
+
+,param_classifier,params,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_label_ranking_loss,rank_test_label_ranking_loss,mean_train_label_ranking_loss,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.2989,1,-0.0004,-0.2112,1,0.0,binary_relevance
+1,MultinomialNB(),{'classifier': MultinomialNB()},-0.3013,2,-0.2478,-0.2124,2,-0.1622,binary_relevance
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},-0.3305,3,-0.2225,-0.317,3,-0.1815,binary_relevance
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},-0.3654,4,-0.0004,-0.5722,4,0.0,binary_relevance
+
+,param_classifier,params,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_label_ranking_loss,rank_test_label_ranking_loss,mean_train_label_ranking_loss,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.3105,1,-0.0004,-0.2218,1,0.0,classifier_chains
+1,MultinomialNB(),{'classifier': MultinomialNB()},-0.3202,2,-0.2568,-0.2266,2,-0.1765,classifier_chains
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},-0.3329,3,-0.2307,-0.3286,3,-0.1764,classifier_chains
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},-0.3557,4,-0.0004,-0.5517,4,0.0,classifier_chains
+
+,param_classifier,params,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_label_ranking_loss,rank_test_label_ranking_loss,mean_train_label_ranking_loss,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.3105,1,-0.0004,-0.2218,1,0.0,classifier_chains
+1,MultinomialNB(),{'classifier': MultinomialNB()},-0.3202,2,-0.2568,-0.2266,2,-0.1765,classifier_chains
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},-0.3329,3,-0.2307,-0.3286,3,-0.1764,classifier_chains
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},-0.3557,4,-0.0004,-0.5517,4,0.0,classifier_chains
+
+,param_classifier,params,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_label_ranking_loss,rank_test_label_ranking_loss,mean_train_label_ranking_loss,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.3381,2,-0.0004,-0.2111,2,0.0,label_powerset
+1,MultinomialNB(),{'classifier': MultinomialNB()},-0.3213,1,-0.2452,-0.2085,1,-0.1464,label_powerset
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},-0.3409,3,-0.2502,-0.317,3,-0.1815,label_powerset
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},-0.3653,4,-0.0004,-0.5574,4,0.0,label_powerset
+
+,param_classifier,params,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_label_ranking_loss,rank_test_label_ranking_loss,mean_train_label_ranking_loss,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.3381,2,-0.0004,-0.2111,2,0.0,label_powerset
+1,MultinomialNB(),{'classifier': MultinomialNB()},-0.3213,1,-0.2452,-0.2085,1,-0.1464,label_powerset
+2,KNeighborsClassifier(),{'classifier': KNeighborsClassifier()},-0.3409,3,-0.2502,-0.317,3,-0.1815,label_powerset
+3,DecisionTreeClassifier(),{'classifier': DecisionTreeClassifier()},-0.3653,4,-0.0004,-0.5574,4,0.0,label_powerset
+
+,hamming_loss,label_ranking_loss,model
+0,-0.283,-0.2099,binary_relevance
+0,-0.3058,-0.2253,classifier_chain
+0,-0.3237,-0.2139,label_powerset
+
+,param_classifier,params,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,mean_test_label_ranking_loss,rank_test_label_ranking_loss,mean_train_label_ranking_loss,model
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.2989,1,-0.0004,-0.2112,1,0.0,binary_relevance
+0,RandomForestClassifier(),{'classifier': RandomForestClassifier()},-0.3105,1,-0.0004,-0.2218,1,0.0,classifier_chain
+1,MultinomialNB(),{'classifier': MultinomialNB()},-0.3213,1,-0.2452,-0.2085,1,-0.1464,label_powerset
+

@@ -1,0 +1,264 @@
+,param_classifier,param_classifier__C,param_classifier__gamma,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss
+0,"SVC(C=10.0, gamma=0.01)",0.0001,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 0.0001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+1,"SVC(C=10.0, gamma=0.01)",0.0001,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 0.001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+2,"SVC(C=10.0, gamma=0.01)",0.0001,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 0.01}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+3,"SVC(C=10.0, gamma=0.01)",0.0001,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 0.1}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+4,"SVC(C=10.0, gamma=0.01)",0.0001,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 1.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+5,"SVC(C=10.0, gamma=0.01)",0.0001,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 10.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+6,"SVC(C=10.0, gamma=0.01)",0.0001,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 100.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+7,"SVC(C=10.0, gamma=0.01)",0.0001,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 1000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+8,"SVC(C=10.0, gamma=0.01)",0.0001,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.0001, 'classifier__gamma': 10000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+9,"SVC(C=10.0, gamma=0.01)",0.001,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 0.0001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+10,"SVC(C=10.0, gamma=0.01)",0.001,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 0.001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+11,"SVC(C=10.0, gamma=0.01)",0.001,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 0.01}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+12,"SVC(C=10.0, gamma=0.01)",0.001,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 0.1}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+13,"SVC(C=10.0, gamma=0.01)",0.001,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 1.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+14,"SVC(C=10.0, gamma=0.01)",0.001,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 10.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+15,"SVC(C=10.0, gamma=0.01)",0.001,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 100.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+16,"SVC(C=10.0, gamma=0.01)",0.001,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 1000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+17,"SVC(C=10.0, gamma=0.01)",0.001,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.001, 'classifier__gamma': 10000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+18,"SVC(C=10.0, gamma=0.01)",0.01,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 0.0001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+19,"SVC(C=10.0, gamma=0.01)",0.01,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 0.001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+20,"SVC(C=10.0, gamma=0.01)",0.01,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 0.01}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+21,"SVC(C=10.0, gamma=0.01)",0.01,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 0.1}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+22,"SVC(C=10.0, gamma=0.01)",0.01,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 1.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+23,"SVC(C=10.0, gamma=0.01)",0.01,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 10.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+24,"SVC(C=10.0, gamma=0.01)",0.01,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 100.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+25,"SVC(C=10.0, gamma=0.01)",0.01,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 1000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+26,"SVC(C=10.0, gamma=0.01)",0.01,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.01, 'classifier__gamma': 10000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+27,"SVC(C=10.0, gamma=0.01)",0.1,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 0.0001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+28,"SVC(C=10.0, gamma=0.01)",0.1,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 0.001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+29,"SVC(C=10.0, gamma=0.01)",0.1,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 0.01}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+30,"SVC(C=10.0, gamma=0.01)",0.1,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 0.1}",0.1037,16,0.1362,0.6002,16,0.6206,-0.318,15,-0.3017
+31,"SVC(C=10.0, gamma=0.01)",0.1,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 1.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+32,"SVC(C=10.0, gamma=0.01)",0.1,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 10.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+33,"SVC(C=10.0, gamma=0.01)",0.1,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 100.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+34,"SVC(C=10.0, gamma=0.01)",0.1,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 1000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+35,"SVC(C=10.0, gamma=0.01)",0.1,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 0.1, 'classifier__gamma': 10000.0}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+36,"SVC(C=10.0, gamma=0.01)",1.0,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 0.0001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+37,"SVC(C=10.0, gamma=0.01)",1.0,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 0.001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+38,"SVC(C=10.0, gamma=0.01)",1.0,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 0.01}",0.1278,8,0.1517,0.633,7,0.659,-0.3019,8,-0.2812
+39,"SVC(C=10.0, gamma=0.01)",1.0,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 0.1}",0.142,2,0.4848,0.6619,4,0.8531,-0.2908,1,-0.1268
+40,"SVC(C=10.0, gamma=0.01)",1.0,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 1.0}",0.1061,15,0.9976,0.5993,17,0.9995,-0.3172,14,-0.0004
+41,"SVC(C=10.0, gamma=0.01)",1.0,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 10.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+42,"SVC(C=10.0, gamma=0.01)",1.0,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 100.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+43,"SVC(C=10.0, gamma=0.01)",1.0,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 1000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+44,"SVC(C=10.0, gamma=0.01)",1.0,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1.0, 'classifier__gamma': 10000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+45,"SVC(C=10.0, gamma=0.01)",10.0,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 0.0001}",0.1037,16,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+46,"SVC(C=10.0, gamma=0.01)",10.0,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 0.001}",0.1278,9,0.1563,0.6316,9,0.6624,-0.3027,9,-0.2774
+47,"SVC(C=10.0, gamma=0.01)",10.0,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 0.01}",0.1395,3,0.2821,0.6646,1,0.7563,-0.2928,2,-0.2124
+48,"SVC(C=10.0, gamma=0.01)",10.0,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 0.1}",0.0913,80,0.9941,0.6089,15,0.9989,-0.3381,79,-0.001
+49,"SVC(C=10.0, gamma=0.01)",10.0,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 1.0}",0.1085,10,0.9976,0.5989,18,0.9995,-0.3172,10,-0.0004
+50,"SVC(C=10.0, gamma=0.01)",10.0,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 10.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+51,"SVC(C=10.0, gamma=0.01)",10.0,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 100.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+52,"SVC(C=10.0, gamma=0.01)",10.0,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 1000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+53,"SVC(C=10.0, gamma=0.01)",10.0,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10.0, 'classifier__gamma': 10000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+54,"SVC(C=10.0, gamma=0.01)",100.0,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 0.0001}",0.1301,7,0.1571,0.6325,8,0.6627,-0.3016,7,-0.277
+55,"SVC(C=10.0, gamma=0.01)",100.0,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 0.001}",0.1372,4,0.2431,0.6629,2,0.7333,-0.2948,3,-0.2329
+56,"SVC(C=10.0, gamma=0.01)",100.0,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 0.01}",0.1082,14,0.7545,0.6224,10,0.9393,-0.3244,74,-0.0519
+57,"SVC(C=10.0, gamma=0.01)",100.0,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 0.1}",0.0937,76,0.9976,0.6113,12,0.9995,-0.3341,76,-0.0004
+58,"SVC(C=10.0, gamma=0.01)",100.0,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 1.0}",0.1085,10,0.9976,0.5989,18,0.9995,-0.3172,10,-0.0004
+59,"SVC(C=10.0, gamma=0.01)",100.0,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 10.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+60,"SVC(C=10.0, gamma=0.01)",100.0,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 100.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+61,"SVC(C=10.0, gamma=0.01)",100.0,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 1000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+62,"SVC(C=10.0, gamma=0.01)",100.0,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 100.0, 'classifier__gamma': 10000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+63,"SVC(C=10.0, gamma=0.01)",1000.0,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 0.0001}",0.1372,4,0.2358,0.6626,3,0.7301,-0.2952,4,-0.2358
+64,"SVC(C=10.0, gamma=0.01)",1000.0,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 0.001}",0.1467,1,0.304,0.6598,6,0.7732,-0.2972,5,-0.1976
+65,"SVC(C=10.0, gamma=0.01)",1000.0,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 0.01}",0.0794,81,0.9957,0.5828,81,0.9992,-0.3616,81,-0.0007
+66,"SVC(C=10.0, gamma=0.01)",1000.0,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 0.1}",0.0937,76,0.9976,0.6113,12,0.9995,-0.3341,76,-0.0004
+67,"SVC(C=10.0, gamma=0.01)",1000.0,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 1.0}",0.1085,10,0.9976,0.5989,18,0.9995,-0.3172,10,-0.0004
+68,"SVC(C=10.0, gamma=0.01)",1000.0,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 10.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+69,"SVC(C=10.0, gamma=0.01)",1000.0,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 100.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+70,"SVC(C=10.0, gamma=0.01)",1000.0,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 1000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+71,"SVC(C=10.0, gamma=0.01)",1000.0,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 1000.0, 'classifier__gamma': 10000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+72,"SVC(C=10.0, gamma=0.01)",10000.0,0.0001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 0.0001}",0.1322,6,0.2545,0.6598,5,0.7458,-0.2977,6,-0.2208
+73,"SVC(C=10.0, gamma=0.01)",10000.0,0.001,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 0.001}",0.1034,75,0.7644,0.6143,11,0.9425,-0.3328,75,-0.0491
+74,"SVC(C=10.0, gamma=0.01)",10000.0,0.01,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 0.01}",0.0915,79,0.9976,0.5886,80,0.9995,-0.3565,80,-0.0004
+75,"SVC(C=10.0, gamma=0.01)",10000.0,0.1,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 0.1}",0.0937,76,0.9976,0.6113,12,0.9995,-0.3341,76,-0.0004
+76,"SVC(C=10.0, gamma=0.01)",10000.0,1.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 1.0}",0.1085,10,0.9976,0.5989,18,0.9995,-0.3172,10,-0.0004
+77,"SVC(C=10.0, gamma=0.01)",10000.0,10.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 10.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+78,"SVC(C=10.0, gamma=0.01)",10000.0,100.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 100.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+79,"SVC(C=10.0, gamma=0.01)",10000.0,1000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 1000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+80,"SVC(C=10.0, gamma=0.01)",10000.0,10000.0,"{'classifier': SVC(C=10.0, gamma=0.01), 'classifier__C': 10000.0, 'classifier__gamma': 10000.0}",0.1037,16,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+
+,param_classifier,param_classifier__C,param_classifier__gamma,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss
+0,SVC(gamma=0.1),0.0001,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 0.0001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+1,SVC(gamma=0.1),0.0001,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 0.001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+2,SVC(gamma=0.1),0.0001,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 0.01}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+3,SVC(gamma=0.1),0.0001,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 0.1}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+4,SVC(gamma=0.1),0.0001,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 1.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+5,SVC(gamma=0.1),0.0001,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 10.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+6,SVC(gamma=0.1),0.0001,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 100.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+7,SVC(gamma=0.1),0.0001,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 1000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+8,SVC(gamma=0.1),0.0001,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.0001, 'classifier__gamma': 10000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+9,SVC(gamma=0.1),0.001,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 0.0001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+10,SVC(gamma=0.1),0.001,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 0.001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+11,SVC(gamma=0.1),0.001,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 0.01}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+12,SVC(gamma=0.1),0.001,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 0.1}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+13,SVC(gamma=0.1),0.001,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 1.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+14,SVC(gamma=0.1),0.001,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 10.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+15,SVC(gamma=0.1),0.001,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 100.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+16,SVC(gamma=0.1),0.001,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 1000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+17,SVC(gamma=0.1),0.001,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.001, 'classifier__gamma': 10000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+18,SVC(gamma=0.1),0.01,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 0.0001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+19,SVC(gamma=0.1),0.01,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 0.001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+20,SVC(gamma=0.1),0.01,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 0.01}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+21,SVC(gamma=0.1),0.01,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 0.1}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+22,SVC(gamma=0.1),0.01,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 1.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+23,SVC(gamma=0.1),0.01,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 10.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+24,SVC(gamma=0.1),0.01,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 100.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+25,SVC(gamma=0.1),0.01,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 1000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+26,SVC(gamma=0.1),0.01,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.01, 'classifier__gamma': 10000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+27,SVC(gamma=0.1),0.1,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 0.0001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+28,SVC(gamma=0.1),0.1,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 0.001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+29,SVC(gamma=0.1),0.1,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 0.01}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+30,SVC(gamma=0.1),0.1,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 0.1}",0.1037,17,0.1365,0.5973,21,0.6165,-0.3193,15,-0.3039
+31,SVC(gamma=0.1),0.1,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 1.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+32,SVC(gamma=0.1),0.1,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 10.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+33,SVC(gamma=0.1),0.1,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 100.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+34,SVC(gamma=0.1),0.1,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 1000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+35,SVC(gamma=0.1),0.1,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 0.1, 'classifier__gamma': 10000.0}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+36,SVC(gamma=0.1),1.0,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 0.0001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+37,SVC(gamma=0.1),1.0,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 0.001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+38,SVC(gamma=0.1),1.0,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 0.01}",0.1421,5,0.188,0.6402,9,0.6837,-0.3043,4,-0.2689
+39,SVC(gamma=0.1),1.0,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 0.1}",0.1611,1,0.5636,0.6728,1,0.869,-0.2917,1,-0.1148
+40,SVC(gamma=0.1),1.0,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 1.0}",0.1061,12,0.9976,0.598,15,0.9995,-0.3184,14,-0.0004
+41,SVC(gamma=0.1),1.0,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 10.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+42,SVC(gamma=0.1),1.0,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 100.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+43,SVC(gamma=0.1),1.0,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 1000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+44,SVC(gamma=0.1),1.0,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1.0, 'classifier__gamma': 10000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+45,SVC(gamma=0.1),10.0,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 0.0001}",0.1037,17,0.1322,0.5971,22,0.6136,-0.3196,16,-0.3063
+46,SVC(gamma=0.1),10.0,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 0.001}",0.1372,7,0.2062,0.6454,7,0.695,-0.3048,5,-0.2629
+47,SVC(gamma=0.1),10.0,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 0.01}",0.1493,2,0.3275,0.662,2,0.7645,-0.3016,2,-0.2105
+48,SVC(gamma=0.1),10.0,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 0.1}",0.1032,76,0.9968,0.6126,10,0.9994,-0.339,75,-0.0005
+49,SVC(gamma=0.1),10.0,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 1.0}",0.1061,12,0.9976,0.5977,16,0.9995,-0.3184,10,-0.0004
+50,SVC(gamma=0.1),10.0,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 10.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+51,SVC(gamma=0.1),10.0,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 100.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+52,SVC(gamma=0.1),10.0,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 1000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+53,SVC(gamma=0.1),10.0,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10.0, 'classifier__gamma': 10000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+54,SVC(gamma=0.1),100.0,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 0.0001}",0.1396,6,0.2075,0.6469,6,0.6955,-0.3036,3,-0.2626
+55,SVC(gamma=0.1),100.0,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 0.001}",0.1469,4,0.27,0.6576,3,0.7389,-0.3076,6,-0.234
+56,SVC(gamma=0.1),100.0,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 0.01}",0.1202,10,0.8216,0.6091,11,0.9506,-0.3368,74,-0.0424
+57,SVC(gamma=0.1),100.0,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 0.1}",0.1008,77,0.9976,0.6087,12,0.9995,-0.3402,76,-0.0004
+58,SVC(gamma=0.1),100.0,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 1.0}",0.1061,12,0.9976,0.5977,16,0.9995,-0.3184,10,-0.0004
+59,SVC(gamma=0.1),100.0,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 10.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+60,SVC(gamma=0.1),100.0,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 100.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+61,SVC(gamma=0.1),100.0,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 1000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+62,SVC(gamma=0.1),100.0,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 100.0, 'classifier__gamma': 10000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+63,SVC(gamma=0.1),1000.0,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 0.0001}",0.1493,2,0.2634,0.6565,4,0.736,-0.3096,7,-0.2366
+64,SVC(gamma=0.1),1000.0,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 0.001}",0.1347,8,0.3694,0.6441,8,0.7844,-0.3148,9,-0.1893
+65,SVC(gamma=0.1),1000.0,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 0.01}",0.0843,80,0.9976,0.5864,80,0.9995,-0.3577,80,-0.0004
+66,SVC(gamma=0.1),1000.0,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 0.1}",0.1008,77,0.9976,0.6087,12,0.9995,-0.3402,76,-0.0004
+67,SVC(gamma=0.1),1000.0,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 1.0}",0.1061,12,0.9976,0.5977,16,0.9995,-0.3184,10,-0.0004
+68,SVC(gamma=0.1),1000.0,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 10.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+69,SVC(gamma=0.1),1000.0,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 100.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+70,SVC(gamma=0.1),1000.0,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 1000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+71,SVC(gamma=0.1),1000.0,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 1000.0, 'classifier__gamma': 10000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+72,SVC(gamma=0.1),10000.0,0.0001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 0.0001}",0.1252,9,0.3015,0.6512,5,0.7528,-0.3104,8,-0.2183
+73,SVC(gamma=0.1),10000.0,0.001,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 0.001}",0.1154,11,0.8291,0.5975,20,0.9517,-0.3489,79,-0.0415
+74,SVC(gamma=0.1),10000.0,0.01,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 0.01}",0.0843,80,0.9976,0.5842,81,0.9995,-0.3593,81,-0.0004
+75,SVC(gamma=0.1),10000.0,0.1,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 0.1}",0.1008,77,0.9976,0.6087,12,0.9995,-0.3402,76,-0.0004
+76,SVC(gamma=0.1),10000.0,1.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 1.0}",0.1061,12,0.9976,0.5977,16,0.9995,-0.3184,10,-0.0004
+77,SVC(gamma=0.1),10000.0,10.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 10.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+78,SVC(gamma=0.1),10000.0,100.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 100.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+79,SVC(gamma=0.1),10000.0,1000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 1000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+80,SVC(gamma=0.1),10000.0,10000.0,"{'classifier': SVC(gamma=0.1), 'classifier__C': 10000.0, 'classifier__gamma': 10000.0}",0.1037,17,0.9976,0.5971,22,0.9995,-0.3196,16,-0.0004
+
+,param_classifier,param_classifier__C,param_classifier__gamma,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss
+0,"SVC(C=0.0001, gamma=0.0001)",0.0001,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+1,"SVC(C=0.0001, gamma=0.0001)",0.0001,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 0.001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+2,"SVC(C=0.0001, gamma=0.0001)",0.0001,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 0.01}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+3,"SVC(C=0.0001, gamma=0.0001)",0.0001,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 0.1}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+4,"SVC(C=0.0001, gamma=0.0001)",0.0001,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 1.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+5,"SVC(C=0.0001, gamma=0.0001)",0.0001,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 10.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+6,"SVC(C=0.0001, gamma=0.0001)",0.0001,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 100.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+7,"SVC(C=0.0001, gamma=0.0001)",0.0001,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 1000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+8,"SVC(C=0.0001, gamma=0.0001)",0.0001,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 10000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+9,"SVC(C=0.0001, gamma=0.0001)",0.001,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+10,"SVC(C=0.0001, gamma=0.0001)",0.001,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 0.001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+11,"SVC(C=0.0001, gamma=0.0001)",0.001,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 0.01}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+12,"SVC(C=0.0001, gamma=0.0001)",0.001,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 0.1}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+13,"SVC(C=0.0001, gamma=0.0001)",0.001,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 1.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+14,"SVC(C=0.0001, gamma=0.0001)",0.001,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 10.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+15,"SVC(C=0.0001, gamma=0.0001)",0.001,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 100.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+16,"SVC(C=0.0001, gamma=0.0001)",0.001,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 1000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+17,"SVC(C=0.0001, gamma=0.0001)",0.001,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.001, 'classifier__gamma': 10000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+18,"SVC(C=0.0001, gamma=0.0001)",0.01,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+19,"SVC(C=0.0001, gamma=0.0001)",0.01,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 0.001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+20,"SVC(C=0.0001, gamma=0.0001)",0.01,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 0.01}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+21,"SVC(C=0.0001, gamma=0.0001)",0.01,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 0.1}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+22,"SVC(C=0.0001, gamma=0.0001)",0.01,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 1.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+23,"SVC(C=0.0001, gamma=0.0001)",0.01,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 10.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+24,"SVC(C=0.0001, gamma=0.0001)",0.01,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 100.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+25,"SVC(C=0.0001, gamma=0.0001)",0.01,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 1000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+26,"SVC(C=0.0001, gamma=0.0001)",0.01,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.01, 'classifier__gamma': 10000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+27,"SVC(C=0.0001, gamma=0.0001)",0.1,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+28,"SVC(C=0.0001, gamma=0.0001)",0.1,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 0.001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+29,"SVC(C=0.0001, gamma=0.0001)",0.1,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 0.01}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+30,"SVC(C=0.0001, gamma=0.0001)",0.1,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 0.1}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+31,"SVC(C=0.0001, gamma=0.0001)",0.1,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 1.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+32,"SVC(C=0.0001, gamma=0.0001)",0.1,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 10.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+33,"SVC(C=0.0001, gamma=0.0001)",0.1,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 100.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+34,"SVC(C=0.0001, gamma=0.0001)",0.1,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 1000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+35,"SVC(C=0.0001, gamma=0.0001)",0.1,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.1, 'classifier__gamma': 10000.0}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+36,"SVC(C=0.0001, gamma=0.0001)",1.0,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+37,"SVC(C=0.0001, gamma=0.0001)",1.0,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 0.001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+38,"SVC(C=0.0001, gamma=0.0001)",1.0,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 0.01}",0.161,3,0.2094,0.6566,67,0.678,-0.3258,4,-0.3079
+39,"SVC(C=0.0001, gamma=0.0001)",1.0,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 0.1}",0.1488,4,0.5716,0.6566,68,0.8282,-0.3226,3,-0.1554
+40,"SVC(C=0.0001, gamma=0.0001)",1.0,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 1.0}",0.1225,75,0.9976,0.6631,60,0.9995,-0.3555,18,-0.0004
+41,"SVC(C=0.0001, gamma=0.0001)",1.0,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 10.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+42,"SVC(C=0.0001, gamma=0.0001)",1.0,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 100.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+43,"SVC(C=0.0001, gamma=0.0001)",1.0,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 1000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+44,"SVC(C=0.0001, gamma=0.0001)",1.0,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 10000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+45,"SVC(C=0.0001, gamma=0.0001)",10.0,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442
+46,"SVC(C=0.0001, gamma=0.0001)",10.0,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 0.001}",0.1707,2,0.2115,0.6589,65,0.6776,-0.3214,1,-0.306
+47,"SVC(C=0.0001, gamma=0.0001)",10.0,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 0.01}",0.1298,9,0.4752,0.6319,73,0.778,-0.3338,8,-0.1964
+48,"SVC(C=0.0001, gamma=0.0001)",10.0,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 0.1}",0.1416,5,0.9976,0.6338,72,0.9995,-0.3342,9,-0.0004
+49,"SVC(C=0.0001, gamma=0.0001)",10.0,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 1.0}",0.1249,11,0.9976,0.6624,61,0.9995,-0.3559,19,-0.0004
+50,"SVC(C=0.0001, gamma=0.0001)",10.0,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 10.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+51,"SVC(C=0.0001, gamma=0.0001)",10.0,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 100.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+52,"SVC(C=0.0001, gamma=0.0001)",10.0,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 1000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+53,"SVC(C=0.0001, gamma=0.0001)",10.0,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 10000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+54,"SVC(C=0.0001, gamma=0.0001)",100.0,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 0.0001}",0.1707,1,0.211,0.6585,66,0.6776,-0.3214,1,-0.3059
+55,"SVC(C=0.0001, gamma=0.0001)",100.0,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 0.001}",0.1297,10,0.4335,0.6265,74,0.76,-0.3374,14,-0.2127
+56,"SVC(C=0.0001, gamma=0.0001)",100.0,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 0.01}",0.1106,79,0.9781,0.6157,81,0.9923,-0.3402,17,-0.0066
+57,"SVC(C=0.0001, gamma=0.0001)",100.0,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 0.1}",0.1416,5,0.9976,0.6351,69,0.9995,-0.333,5,-0.0004
+58,"SVC(C=0.0001, gamma=0.0001)",100.0,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 1.0}",0.1249,11,0.9976,0.6624,61,0.9995,-0.3559,19,-0.0004
+59,"SVC(C=0.0001, gamma=0.0001)",100.0,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 10.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+60,"SVC(C=0.0001, gamma=0.0001)",100.0,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 100.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+61,"SVC(C=0.0001, gamma=0.0001)",100.0,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 1000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+62,"SVC(C=0.0001, gamma=0.0001)",100.0,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 100.0, 'classifier__gamma': 10000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+63,"SVC(C=0.0001, gamma=0.0001)",1000.0,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 0.0001}",0.1249,11,0.4311,0.6248,75,0.7592,-0.339,16,-0.2134
+64,"SVC(C=0.0001, gamma=0.0001)",1000.0,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 0.001}",0.1057,80,0.8531,0.6162,79,0.9395,-0.3374,15,-0.0522
+65,"SVC(C=0.0001, gamma=0.0001)",1000.0,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 0.01}",0.1176,77,0.9976,0.6222,76,0.9995,-0.3347,10,-0.0004
+66,"SVC(C=0.0001, gamma=0.0001)",1000.0,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 0.1}",0.1416,5,0.9976,0.6351,69,0.9995,-0.333,5,-0.0004
+67,"SVC(C=0.0001, gamma=0.0001)",1000.0,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 1.0}",0.1249,11,0.9976,0.6624,61,0.9995,-0.3559,19,-0.0004
+68,"SVC(C=0.0001, gamma=0.0001)",1000.0,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 10.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+69,"SVC(C=0.0001, gamma=0.0001)",1000.0,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 100.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+70,"SVC(C=0.0001, gamma=0.0001)",1000.0,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 1000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+71,"SVC(C=0.0001, gamma=0.0001)",1000.0,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1000.0, 'classifier__gamma': 10000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+72,"SVC(C=0.0001, gamma=0.0001)",10000.0,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 0.0001}",0.1033,81,0.8339,0.6166,78,0.9311,-0.3362,12,-0.0596
+73,"SVC(C=0.0001, gamma=0.0001)",10000.0,0.001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 0.001}",0.1177,76,0.9872,0.616,80,0.9955,-0.3363,13,-0.0038
+74,"SVC(C=0.0001, gamma=0.0001)",10000.0,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 0.01}",0.1176,77,0.9976,0.6222,76,0.9995,-0.3347,10,-0.0004
+75,"SVC(C=0.0001, gamma=0.0001)",10000.0,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 0.1}",0.1416,5,0.9976,0.6351,69,0.9995,-0.333,5,-0.0004
+76,"SVC(C=0.0001, gamma=0.0001)",10000.0,1.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 1.0}",0.1249,11,0.9976,0.6624,61,0.9995,-0.3559,19,-0.0004
+77,"SVC(C=0.0001, gamma=0.0001)",10000.0,10.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 10.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+78,"SVC(C=0.0001, gamma=0.0001)",10000.0,100.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 100.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+79,"SVC(C=0.0001, gamma=0.0001)",10000.0,1000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 1000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+80,"SVC(C=0.0001, gamma=0.0001)",10000.0,10000.0,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10000.0, 'classifier__gamma': 10000.0}",0.1225,16,0.9976,0.6631,1,0.9995,-0.3562,23,-0.0004
+
+,accuracy,f1_micro,hamming_loss,model
+0,0.2446,0.694,-0.2686,binary_relevance_svms
+0,0.259,0.6852,-0.2854,classifier_chain_svms
+0,0.1871,0.6769,-0.3537,label_powerset_svms
+
+,param_classifier,param_classifier__C,param_classifier__gamma,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,model
+47,"SVC(C=0.0001, gamma=0.0001)",10.0,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 0.01}",0.1395,3,0.2821,0.6646,1,0.7563,-0.2928,2,-0.2124,binary_relevance_svms
+39,"SVC(C=0.0001, gamma=0.0001)",1.0,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 0.1}",0.1611,1,0.5636,0.6728,1,0.869,-0.2917,1,-0.1148,classifier_chain_svms
+0,"SVC(C=0.0001, gamma=0.0001)",0.0001,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442,label_powerset_svms
+
+,param_classifier,param_classifier__C,param_classifier__gamma,params,mean_test_accuracy,rank_test_accuracy,mean_train_accuracy,mean_test_f1_micro,rank_test_f1_micro,mean_train_f1_micro,mean_test_hamming_loss,rank_test_hamming_loss,mean_train_hamming_loss,model
+47,"SVC(C=0.0001, gamma=0.0001)",10.0,0.01,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 10.0, 'classifier__gamma': 0.01}",0.1395,3,0.2821,0.6646,1,0.7563,-0.2928,2,-0.2124,binary_relevance_svms
+39,"SVC(C=0.0001, gamma=0.0001)",1.0,0.1,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 1.0, 'classifier__gamma': 0.1}",0.1611,1,0.5636,0.6728,1,0.869,-0.2917,1,-0.1148,classifier_chain_svms
+0,"SVC(C=0.0001, gamma=0.0001)",0.0001,0.0001,"{'classifier': SVC(C=0.0001, gamma=0.0001), 'classifier__C': 0.0001, 'classifier__gamma': 0.0001}",0.1225,16,0.1482,0.6631,1,0.674,-0.3562,23,-0.3442,label_powerset_svms
+
